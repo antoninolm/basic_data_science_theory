@@ -1,102 +1,102 @@
-customer_id,name,city
-1,Customer1,Phoenix
-2,Customer2,Los Angeles
-3,Customer3,Chicago
-4,Customer4,Los Angeles
-5,Customer5,Houston
-6,Customer6,Chicago
-7,Customer7,Phoenix
-8,Customer8,Houston
-9,Customer9,Houston
-10,Customer10,Chicago
-11,Customer11,Houston
-12,Customer12,Chicago
-13,Customer13,New York
-14,Customer14,Phoenix
-15,Customer15,Chicago
-16,Customer16,Chicago
-17,Customer17,New York
-18,Customer18,Houston
-19,Customer19,New York
-20,Customer20,New York
-21,Customer21,Los Angeles
-22,Customer22,Houston
-23,Customer23,New York
-24,Customer24,Houston
-25,Customer25,Chicago
-26,Customer26,Chicago
-27,Customer27,New York
-28,Customer28,Chicago
-29,Customer29,Phoenix
-30,Customer30,Houston
-31,Customer31,Los Angeles
-32,Customer32,Houston
-33,Customer33,Chicago
-34,Customer34,New York
-35,Customer35,Chicago
-36,Customer36,New York
-37,Customer37,Chicago
-38,Customer38,Houston
-39,Customer39,Phoenix
-40,Customer40,Los Angeles
-41,Customer41,New York
-42,Customer42,Chicago
-43,Customer43,Phoenix
-44,Customer44,Phoenix
-45,Customer45,Los Angeles
-46,Customer46,Houston
-47,Customer47,Los Angeles
-48,Customer48,New York
-49,Customer49,Chicago
-50,Customer50,New York
-51,Customer51,Houston
-52,Customer52,Los Angeles
-53,Customer53,New York
-54,Customer54,Chicago
-55,Customer55,New York
-56,Customer56,New York
-57,Customer57,New York
-58,Customer58,New York
-59,Customer59,New York
-60,Customer60,Phoenix
-61,Customer61,New York
-62,Customer62,Phoenix
-63,Customer63,New York
-64,Customer64,Houston
-65,Customer65,Los Angeles
-66,Customer66,Chicago
-67,Customer67,Los Angeles
-68,Customer68,Phoenix
-69,Customer69,Phoenix
-70,Customer70,Chicago
-71,Customer71,Phoenix
-72,Customer72,Phoenix
-73,Customer73,Chicago
-74,Customer74,Chicago
-75,Customer75,Houston
-76,Customer76,Los Angeles
-77,Customer77,Phoenix
-78,Customer78,New York
-79,Customer79,Houston
-80,Customer80,Los Angeles
-81,Customer81,New York
-82,Customer82,New York
-83,Customer83,Los Angeles
-84,Customer84,Chicago
-85,Customer85,Houston
-86,Customer86,Houston
-87,Customer87,Houston
-88,Customer88,Chicago
-89,Customer89,Phoenix
-90,Customer90,Los Angeles
-91,Customer91,Houston
-92,Customer92,Los Angeles
-93,Customer93,Houston
-94,Customer94,Phoenix
-95,Customer95,Chicago
-96,Customer96,Phoenix
-97,Customer97,Los Angeles
-98,Customer98,Phoenix
-99,Customer99,Houston
-100,Customer100,Los Angeles
-101,Customer101,Chicago
+customer_id,name,city,email,signup_date
+1,Customer1,Phoenix,customer1@example.com,2023-01-02
+2,Customer2,Los Angeles,customer2@example.com,2023-01-03
+3,Customer3,Chicago,customer3@example.com,2023-01-04
+4,Customer4,Los Angeles,customer4@example.com,2023-01-05
+5,Customer5,Houston,customer5@example.com,2023-01-06
+6,Customer6,Chicago,customer6@example.com,2023-01-07
+7,Customer7,Phoenix,customer7@example.com,2023-01-08
+8,Customer8,Houston,customer8@example.com,2023-01-09
+9,Customer9,Houston,customer9@example.com,2023-01-10
+10,Customer10,Chicago,customer10@example.com,2023-01-11
+11,Customer11,Houston,customer11@example.com,2023-01-12
+12,Customer12,Chicago,customer12@example.com,2023-01-13
+13,Customer13,New York,customer13@example.com,2023-01-14
+14,Customer14,Phoenix,customer14@example.com,2023-01-15
+15,Customer15,Chicago,customer15@example.com,2023-01-16
+16,Customer16,Chicago,customer16@example.com,2023-01-17
+17,Customer17,New York,customer17@example.com,2023-01-18
+18,Customer18,Houston,customer18@example.com,2023-01-19
+19,Customer19,New York,customer19@example.com,2023-01-20
+20,Customer20,New York,customer20@example.com,2023-01-21
+21,Customer21,Los Angeles,customer21@example.com,2023-01-22
+22,Customer22,Houston,customer22@example.com,2023-01-23
+23,Customer23,New York,customer23@example.com,2023-01-24
+24,Customer24,Houston,customer24@example.com,2023-01-25
+25,Customer25,Chicago,customer25@example.com,2023-01-26
+26,Customer26,Chicago,customer26@example.com,2023-01-27
+27,Customer27,New York,customer27@example.com,2023-01-28
+28,Customer28,Chicago,customer28@example.com,2023-01-29
+29,Customer29,Phoenix,customer29@example.com,2023-01-30
+30,Customer30,Houston,customer30@example.com,2023-01-01
+31,Customer31,Los Angeles,customer31@example.com,2023-01-02
+32,Customer32,Houston,customer32@example.com,2023-01-03
+33,Customer33,Chicago,customer33@example.com,2023-01-04
+34,Customer34,New York,customer34@example.com,2023-01-05
+35,Customer35,Chicago,customer35@example.com,2023-01-06
+36,Customer36,New York,customer36@example.com,2023-01-07
+37,Customer37,Chicago,customer37@example.com,2023-01-08
+38,Customer38,Houston,customer38@example.com,2023-01-09
+39,Customer39,Phoenix,customer39@example.com,2023-01-10
+40,Customer40,Los Angeles,customer40@example.com,2023-01-11
+41,Customer41,New York,customer41@example.com,2023-01-12
+42,Customer42,Chicago,customer42@example.com,2023-01-13
+43,Customer43,Phoenix,customer43@example.com,2023-01-14
+44,Customer44,Phoenix,customer44@example.com,2023-01-15
+45,Customer45,Los Angeles,customer45@example.com,2023-01-16
+46,Customer46,Houston,customer46@example.com,2023-01-17
+47,Customer47,Los Angeles,customer47@example.com,2023-01-18
+48,Customer48,New York,customer48@example.com,2023-01-19
+49,Customer49,Chicago,customer49@example.com,2023-01-20
+50,Customer50,New York,customer50@example.com,2023-01-21
+51,Customer51,Houston,customer51@example.com,2023-01-22
+52,Customer52,Los Angeles,customer52@example.com,2023-01-23
+53,Customer53,New York,customer53@example.com,2023-01-24
+54,Customer54,Chicago,customer54@example.com,2023-01-25
+55,Customer55,New York,customer55@example.com,2023-01-26
+56,Customer56,New York,customer56@example.com,2023-01-27
+57,Customer57,New York,customer57@example.com,2023-01-28
+58,Customer58,New York,customer58@example.com,2023-01-29
+59,Customer59,New York,customer59@example.com,2023-01-30
+60,Customer60,Phoenix,customer60@example.com,2023-01-01
+61,Customer61,New York,customer61@example.com,2023-01-02
+62,Customer62,Phoenix,customer62@example.com,2023-01-03
+63,Customer63,New York,customer63@example.com,2023-01-04
+64,Customer64,Houston,customer64@example.com,2023-01-05
+65,Customer65,Los Angeles,customer65@example.com,2023-01-06
+66,Customer66,Chicago,customer66@example.com,2023-01-07
+67,Customer67,Los Angeles,customer67@example.com,2023-01-08
+68,Customer68,Phoenix,customer68@example.com,2023-01-09
+69,Customer69,Phoenix,customer69@example.com,2023-01-10
+70,Customer70,Chicago,customer70@example.com,2023-01-11
+71,Customer71,Phoenix,customer71@example.com,2023-01-12
+72,Customer72,Phoenix,customer72@example.com,2023-01-13
+73,Customer73,Chicago,customer73@example.com,2023-01-14
+74,Customer74,Chicago,customer74@example.com,2023-01-15
+75,Customer75,Houston,customer75@example.com,2023-01-16
+76,Customer76,Los Angeles,customer76@example.com,2023-01-17
+77,Customer77,Phoenix,customer77@example.com,2023-01-18
+78,Customer78,New York,customer78@example.com,2023-01-19
+79,Customer79,Houston,customer79@example.com,2023-01-20
+80,Customer80,Los Angeles,customer80@example.com,2023-01-21
+81,Customer81,New York,customer81@example.com,2023-01-22
+82,Customer82,New York,customer82@example.com,2023-01-23
+83,Customer83,Los Angeles,customer83@example.com,2023-01-24
+84,Customer84,Chicago,customer84@example.com,2023-01-25
+85,Customer85,Houston,customer85@example.com,2023-01-26
+86,Customer86,Houston,customer86@example.com,2023-01-27
+87,Customer87,Houston,customer87@example.com,2023-01-28
+88,Customer88,Chicago,customer88@example.com,2023-01-29
+89,Customer89,Phoenix,customer89@example.com,2023-01-30
+90,Customer90,Los Angeles,customer90@example.com,2023-01-01
+91,Customer91,Houston,customer91@example.com,2023-01-02
+92,Customer92,Los Angeles,customer92@example.com,2023-01-03
+93,Customer93,Houston,customer93@example.com,2023-01-04
+94,Customer94,Phoenix,customer94@example.com,2023-01-05
+95,Customer95,Chicago,customer95@example.com,2023-01-06
+96,Customer96,Phoenix,customer96@example.com,2023-01-07
+97,Customer97,Los Angeles,customer97@example.com,2023-01-08
+98,Customer98,Phoenix,customer98@example.com,2023-01-09
+99,Customer99,Houston,customer99@example.com,2023-01-10
+100,Customer100,Los Angeles,customer100@example.com,2023-01-11
+101,Customer101,Chicago,customer101@example.com,2023-01-12
